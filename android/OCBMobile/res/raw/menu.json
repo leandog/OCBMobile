@@ -1,0 +1,76 @@
+{"menu":[{
+"title":"Burritos",
+"contents":[
+	{
+		"name":"Brother's Burrito",
+		"description":"Flour tortilla filled with rice, choice of beans & meat, cheese & lettuce, choice of salsa, guacamole & sour cream.",
+		"price":"$6.45"
+	},
+	{
+		"name":"Veggie Burrito",
+		"description":"Just the same as Brother's, no meat",
+		"price":"$6.15"
+	},
+	{
+		"name":"Naked Burrito",
+		"description":"(in a bowl, no tortilla!)",
+		"price":"$6.45, $6.15"
+	}
+]
+},
+{
+"title":"Tacos",
+"contents":[
+	{
+		"name":"Talia's Taco",
+		"description":"Choice of soft flour, soft corn, or crispy corn shell, filled with meat, cheese, lettuce & choice of salsa",
+		"price":"$2.25"
+	},
+	{
+		"name":"25th Street Taco",
+		"description":"Double layer taco with refried beans, soft & crispy shell and your choice of chicken, beef or pork",
+		"price":"$3.10"
+	},
+        {
+		"name":"Taco Salad",
+		"description":"Bed of tri-color corn chips & lettuce topped with choice of beans & meat, cheese, salsa, guacamole & sour cream",
+		"price":"$6.45"
+        },
+        {
+		"name":"Nachos",
+		"description":"Tri-color corn chips topped with melted cheese, choice of beans, salsa, guacamole & sour cream",
+		"price":"$6.15"
+        },
+        {
+		"name":"Baby Burrito",
+		"description":"Soft taco shell rolled up with beans, cheese & salsa",
+		"price":"$1.85"
+        }
+]
+},
+{
+"title":"Choices and Additions",
+"contents":[
+	{
+		"name":"Meat",
+		"description":"*Shredded chicken in a tomato-chipotle sauce\n*Spicy shredded beef barbacoa\n*Savory pulled pork carnitas",
+		"price":""
+	},
+	{
+		"name":"Beans",
+		"description":"*Smashed pinto (refried)\n*Whole black\n* **both options are vegetarian**",
+		"price":""
+	},
+{
+		"name":"Salsa",
+		"description":"*Pico de Gallo (chunky & mild)\n*Grandma's (mild,but sweet… yum!)\n*Red (medium-hot)\n*Fiery Hot Habanero\n*Fresh Corn Salsa (bold blend of flavors w/a lil' kick)",
+		"price":""
+	},
+{
+		"name":"Fajita Veggies",
+		"description":"Sweet yellow onions & green bell peppers",
+		"price":""
+	}
+]
+}
+]}

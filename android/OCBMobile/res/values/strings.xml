@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OCBMobile</string>
+    <string name="email_text">Email Us!</string>
+    <string name="facebook_text">Like Us!</string>
+    <string name="twitter_text">Follow Us!</string>
+    <string name="email_intent_uri">mailto:info@ohiocityburrito.com</string>
+    <string name="twitter_intent_uri">https://twitter.com/ocburrito</string>
+    <string name="facebook_app_intent_uri">fb://profile/141369891769</string>
+    <string name="facebook_web_intent_uri">http://facebook.com/pages/Ohio-City-Burrito/141369891769</string>
+    <string name="call_intent_uri">tel:216-664-0908</string>
+    <string name="map_intent_uri">geo:0,0?q=Ohio+City+Burrito+1844+W+25th+St+Cleveland,+OH+44113</string>
+
+</resources>

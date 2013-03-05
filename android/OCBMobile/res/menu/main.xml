@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/contact_menu"
+        android:icon="@drawable/abs__ic_menu_moreoverflow_holo_dark"
+        android:showAsAction="always"
+        android:title="" >
+        <menu>
+            <item
+                android:id="@+id/facebook"
+                android:icon="@drawable/f_logo"
+                android:showAsAction="always"
+                android:title="@string/facebook_text">
+            </item>
+            <item
+                android:id="@+id/twitter"
+                android:icon="@drawable/twitter_logo_blue"
+                android:showAsAction="always"
+                android:title="@string/twitter_text">
+            </item>
+            <item
+                android:id="@+id/email"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_action_mail"
+                android:title="@string/email_text">
+            </item>
+        </menu>
+    </item>
+
+</menu>

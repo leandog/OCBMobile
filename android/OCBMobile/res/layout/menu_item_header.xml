@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_header_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abs__background_holo_dark"
+    android:orientation="horizontal"
+    android:padding="@dimen/content_margin" >
+
+    <TextView
+        android:id="@+id/header_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/ocb_blue"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
