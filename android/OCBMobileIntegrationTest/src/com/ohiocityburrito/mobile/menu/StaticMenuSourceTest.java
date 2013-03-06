@@ -40,7 +40,7 @@ public class StaticMenuSourceTest extends ApplicationTestCase<OCBApplication>{
         
         List<MenuContentItem> items = getMenuItemsStoredLocally();
  
-        assertTrue("Veggie Burrito wasn't found",items.contains(new MenuContentItem("Veggie Burrito","Just the same as Brother's, no meat","$5.85")));
+        assertTrue("Veggie Burrito wasn't found",items.contains(new MenuContentItem("Veggie Burrito","Just the same as Brother's, no meat","$6.15")));
         assertTrue("Baby Burrito wasn't found",items.contains(new MenuContentItem("Baby Burrito","Soft taco shell rolled up with beans, cheese & salsa","$1.85")));
     }
     
