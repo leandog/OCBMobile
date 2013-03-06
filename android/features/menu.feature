@@ -17,4 +17,4 @@ Feature: Viewing Ohio City Burrito's Menu
     When I touch the menu sign
     Then I should see the prices:
       | Brother's Burrito | $6.45 |
-      | Baby Burrito      | $1.85 |
+      | Veggie Burrito    | $6.15 |
